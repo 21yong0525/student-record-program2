@@ -57,4 +57,4 @@ Java collection framework (HashMap) 를 활용하여 개발한 프로그램입�
 
 
 ### [저장 & 종료]
-![image](https://user-images.githubusercontent.com/115531869/195997563-10070b53-bbe5-4797-9e55-552c003e324b.png)
+![image](https://user-images.githubusercontent.com/115531869/196001171-e54d1656-d353-4f0d-a0b8-311ecd6e1724.png)
